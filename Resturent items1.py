@@ -1,3 +1,5 @@
+# Cofe Management System
+
 Gaji = {  
     "pizza":40,
     "pasta":50,
@@ -30,3 +32,4 @@ if another_order =="yas":
         print(f"ordered item {item_2} is not available!") 
 
 print(f"The total amount of items is to pay {order_total}")  
+# USING PROJECT  IN DICTIONARY AND CONDITIONAL STATEMENT
